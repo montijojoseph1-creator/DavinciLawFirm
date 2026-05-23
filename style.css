@@ -26,4 +26,28 @@ section {
 h2 {
   color: #f5d27a;
 }
+.section.dark {
+  background: #0b0b10;
+  padding: 4rem 2rem;
+  border-top: 1px solid rgba(245, 210, 122, 0.15);
+  border-bottom: 1px solid rgba(245, 210, 122, 0.15);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: #111119;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid rgba(245, 210, 122, 0.15);
+}
+
+.card h3 {
+  color: #f5d27a;
+  margin-bottom: 0.5rem;
+}
 
