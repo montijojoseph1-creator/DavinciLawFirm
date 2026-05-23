@@ -1,1 +1,29 @@
+/* styles.css */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #050507;
+  color: #f7f7f7;
+}
+
+header {
+  padding: 2rem;
+  text-align: center;
+  background: #000;
+  color: #f5d27a;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  color: #f5d27a;
+}
 
