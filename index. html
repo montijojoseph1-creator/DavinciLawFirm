@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family DaVinci Law Firm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Family DaVinci Law Firm</h1>
+    <p>A refuge. A sanctuary. A place where you are safe.</p>
+</header>
+
+<nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="blog.html">Blog</a>
+    <a href="ai-room.html">AI Room</a>
+</nav>
+
+<section class="blog-container">
+    <article class="blog-post">
+        <h2>Welcome Home</h2>
+        <p>
+            This is more than a website.  
+            This is a sanctuary — a place built from pain, truth, and transformation.  
+            A place where anyone can breathe, speak, and be heard.
+        </p>
+        <p>
+            You are not alone here.  
+            You belong here.  
+            You are safe here.
+        </p>
+    </article>
+</section>
+
+<footer>
+    <p>© 2026 Family DaVinci Law Firm — A Sanctuary for All</p>
+</footer>
+
+</body>
+</html>
 index.html
